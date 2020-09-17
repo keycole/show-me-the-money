@@ -52,7 +52,7 @@ A travel-friendly budgeting app that allows users to add expenses and deposits t
 ## Usage
 
 - This application is meant to be used to track your expenses while on the go. 
-- Expenses can be recorded while offline. The balance will be updated accordingly and new expenses will be stored in the database when you're device is back online.
+- Expenses can be recorded while offline. The balance will be updated accordingly and new expenses will be stored in the database when your device is back online.
 
 ## Contributing
 
